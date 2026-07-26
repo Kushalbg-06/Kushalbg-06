@@ -20,6 +20,6 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Kushalbg-06&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-[![](https://komarev.com/ghpvc/?username=Kushalbg-06&icon=0&color=13)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=Kushalbg-06&label=Profile%20Views&color=0e75b6&style=flat)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
